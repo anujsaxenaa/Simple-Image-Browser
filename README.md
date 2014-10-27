@@ -1,2 +1,2 @@
-Simple-Image-Browser
-====================
+Creating a simple online image browser
+
