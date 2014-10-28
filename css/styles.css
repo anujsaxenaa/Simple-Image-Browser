@@ -1,3 +1,6 @@
+body {
+	background-color: #bad8eb;
+}
 h1 {
     text-align: center;
 }
@@ -5,6 +8,7 @@ h1 {
     background-color: #fff;
     height: 500px;
     width: 100%;
+    background-color: #bad8eb;
     background-repeat: no-repeat;
     background-position: center;
 }
